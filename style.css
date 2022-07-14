@@ -102,7 +102,7 @@ button:hover{
     justify-content: center;
     display: flex;
      border-radius: 0.2rem;
-     width: 86%;
+     width: 100%;
      margin: 1rem 0;
      font-weight: 100;
      transition: background-color 0.3s;
@@ -121,4 +121,15 @@ h3{
     font-size: 1.2rem;
     font-family: 'Kantumruy Pro', sans-serif;
     font-weight: 500;
+}
+
+@media (max-width:550px) {
+    .container{
+        box-shadow: none;
+        padding: 0 2rem;
+        border: none;
+    }
+    body{
+        background-color: whitesmoke;
+    }
 }
