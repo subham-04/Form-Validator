@@ -1,6 +1,6 @@
 # form-validator
 
--Forms with better UI for tab specific design
+-Forms with better UI
 
 
 <br>
