@@ -17,7 +17,7 @@ Forms with better and Advanced UI
 
 <h2>
   
-- Preview
+- Preview (First Design)
 
 </h2>
   
@@ -38,7 +38,7 @@ Forms with better and Advanced UI
 
 <h2>
   
-- Preview
+- Preview (First Design)
 
 </h2>
   
@@ -46,7 +46,7 @@ Forms with better and Advanced UI
   
 <br>
 
-## Desktop View
+## Desktop View / Tab View
 
 <br>
 
