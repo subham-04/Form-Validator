@@ -4,7 +4,7 @@
 
 <h3>
 
-Forms with better UI
+Forms with better and Advanced UI 
 
 </h3>
 
@@ -16,6 +16,8 @@ Forms with better UI
 
 </h2>
   
+  
+ With every relaod new picture will be set according the container height and width
 
   
 <br>
