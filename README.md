@@ -7,7 +7,7 @@ Basic form validator
 
 <br>
 
-![App Screenshot](https://github.com/subham-04/form-with-picture/blob/main/ad-form.png)
+![App Screenshot](https://github.com/subham-04/form-validator/blob/main/fm.png)
 
 <br>
 
