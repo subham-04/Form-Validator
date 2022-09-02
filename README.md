@@ -18,9 +18,17 @@ Basic form validator
 </h3>
 
 <br>
+
   
   
  With every relaod new picture will be set according the container height and width
+
+<br>
+
+
+## Note
+
+- This images are fetched through an API and it's not on a paid plan/ subscription, that's why sometimes images couldn't be fetched
 
 <br>
 
