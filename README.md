@@ -28,7 +28,7 @@ Basic form validator
 
 ## Note
 
-- This images are fetched through an API and it's not on a paid plan/ subscription, that's why sometimes images couldn't be fetched
+- This images are fetched through an API and it's not on a paid plan/ subscription, that's why sometimes images couldn't be fetched (Try to reload the page, this is the only possible solution right now)
 
 <br>
 
